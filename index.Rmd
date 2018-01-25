@@ -13,3 +13,6 @@ title: "Ejemplos Gráficos Web Para la Visualización de Estadísticas"
 * [Tablas](https://estadisticaun.github.io/Graficos/Series/J1_G2_I1_ADMITIDO_F17.html)
 
 * [Mapas](https://estadisticaun.github.io/Graficos/Mapas/municipios1.html)
+
+## Tipos de gráficos indicadores de gestión
+
