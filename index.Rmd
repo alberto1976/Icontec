@@ -1,0 +1,15 @@
+---
+title: "Ejemplos Gráficos Web Para la Visualización de Estadísticas"
+---
+
+## Tipos de Gráficos
+
+* [Diag de barras](https://estadisticaun.github.io/Graficos/Series/J1_G2_I1_PEAMA_F5.html)
+
+* [Tortas (Pie)](https://estadisticaun.github.io/Graficos/Series/J1_G2_I1_ADMITIDOS_F4.html)
+
+* [Series de tiempo](https://estadisticaun.github.io/Graficos/Series/J1_G2_I1_ADMITIDOS_F16.html)
+
+* [Tablas](https://estadisticaun.github.io/Graficos/Series/J1_G2_I1_ADMITIDO_F17.html)
+
+* [Mapas](https://estadisticaun.github.io/Graficos/Mapas/municipios1.html)
