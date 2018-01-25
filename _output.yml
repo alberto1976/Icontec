@@ -1,5 +1,4 @@
 revealjs::revealjs_presentation:
-  lib_dir: libs
   theme: sky
   highlight: tango
   center: true
