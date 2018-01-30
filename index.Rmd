@@ -1,8 +1,8 @@
 ---
-title: "Ejemplos Gráficos Web Para la Visualización de Estadísticas"
+title: "Ejemplos Para la Visualización web de Estadísticas e Indicadores"
 ---
 
-## Tipos de Gráficos
+## Tipos de Gráficos para Estadísticas
 
 * [Diag de barras](https://estadisticaun.github.io/Graficos/Series/J1_G2_I1_PEAMA_F5.html)
 
@@ -14,5 +14,31 @@ title: "Ejemplos Gráficos Web Para la Visualización de Estadísticas"
 
 * [Mapas](https://estadisticaun.github.io/Graficos/Mapas/municipios1.html)
 
-## Tipos de gráficos indicadores de gestión
+## Tipos de gráficos Para Indicadores de Gestión
+
+## Calibradores (Gauges)
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(rAmCharts)
+p <- amAngularGauge(x = 25)
+p
+```
+
+
+## Calibradores (Gauges)
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(rAmCharts)
+p <- amSolidGauge(x = 65, text = "%", type = "semi")
+p
+```
+
+## Gráficos de tiro (Bullets)
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(rAmCharts)
+p <- amBullet(value = 50, val_color = "gray")
+p
+```
+
 
