@@ -8,7 +8,7 @@ title: "Lineamientos para la medición de la gestión por procesos en la UN <br>
 ## 
 
 * Selección de un proceso 
-* Presentación "Documento Lineamientos""
+* Presentación "Documento Lineamientos"
 * Construcción estadística (protocolo y gestión)
 * Construcción indicador de gestión
 
@@ -134,6 +134,10 @@ Los indicadores de gestión, a diferencia de las estadísticas y los indicadores
 * [Tablas](https://estadisticaun.github.io/Graficos/Series/J1_G2_I1_ADMITIDO_F17.html)
 
 * [Mapas](https://estadisticaun.github.io/Graficos/Mapas/municipios1.html)
+
+* [Dashboards - Sede Bogotá](http://planeacion.bogota.unal.edu.co/y9vkWipGjuD8-10.html)
+
+* [Datacubos - Sede Medellín](http://planeacion.medellin.unal.edu.co/estadisticas/gestor-de-informacion.html)
 
 
 # Gestión de los Indicadores de Gestión
