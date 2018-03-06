@@ -1,16 +1,13 @@
 ---
-title: "Lineamientos para la medición de la gestión por procesos en la UN <br> <br> <h3 style=color:red;>(Piloto Icontec)</h3>"
+title: "Lineamientos para la medición de la gestión por procesos en la UN <br> <br> <h3 style=color:red;> </h3>"
 ---
 
-
-# Fases Desarrolladas
+# Jerarquía de la Medición en la UN
 
 ## 
 
-* Selección de un proceso 
-* Presentación "Documento Lineamientos"
-* Construcción estadística (protocolo y gestión)
-* Construcción indicador de gestión
+![](Imagenes/Jerarquía.png)
+
 
 # Estructura Documento Lineamientos
 
@@ -28,12 +25,36 @@ title: "Lineamientos para la medición de la gestión por procesos en la UN <br>
 ##
 
 <p style="font-size:75%;"> 
-Aunque es común hablar de la categoría de indicadores de efectividad. En la Universidad Nacional de Colombia se excluye este ámbito de medición en el marco de los procesos. La efectividad o impacto de los procesos se evalúa a través de estudios e investigaciones en donde los indicadores y estadísticas disponibles pueden ser uno de los mecanismos o instrumentos utilizados, pero no el único. 
+1. No todo proceso o componente de un proceso debe ser evaluado o monitoreado exclusivamente a través de estadísticas o indicadores. Existen mecanismos alternativos a través de los cuales se puede evaluar y monitorear el desempeño de un proceso para garantizar su conformidad. 
 </p>
 
 <p style="font-size:75%;"> 
-La madurez en la construcción de estadísticas e indicadores en el marco de un proceso se alcanza en el mediano y largo plazo. Para lograr este propósito, se debe agotar un número dado de pasos los cuales se sugiere sean abordados de manera secuencial. La construcción de buenas mediciones es un ejercicio de resistencia y no de velocidad.
+2. Los indicadores de gestión por procesos no son los únicos mecanismos de cuantificación y medición existentes al interior de la Universidad Nacional de Colombia. Por ello, no todo indicador que exista en la Universidad debe de estar enmarcado en el ámbito de la gestión por procesos ni todo indicador es válido para pertenecer al ámbito de la medición de los procesos. 
 </p>
+
+## 
+
+<p style="font-size:75%;"> 
+3. El documento está orientado a la construcción de indicadores y estadísticas cuantitativas para la medición de la gestión por procesos. En este sentido se excluyen de él los indicadores de tipo cualitativo los cuales deben ser evaluados desde otra perspectiva de trabajo. 
+</p>
+
+##
+
+<p style="font-size:75%;"> 
+4. Todo proceso de medición, incluido el de los indicadores, tiene dos elementos constitutivos: el qué de la medición y el cómo de la medición. En el ámbito de lo social y dentro de este en el de la educación, el éxito de la construcción de estadísticas e indicadores en una buena medida depende de la claridad en el qué de la medición. En este sentido, para construir buenas mediciones en un proceso se requiere que este esté claramente definido, consensuado, estandarizado, documentado y en la medida de las posibilidades que no esté en proceso de construcción o rediseño. En pocas palabras, no se recomienda que se construyan indicadores o estadísticas a la par con ajustes importantes a la estructura del o los procesos que pretenden ser monitoreados a través de mediciones.
+</p>
+
+##
+
+<p style="font-size:75%;"> 
+5. La madurez en la construcción de estadísticas e indicadores en el marco de un proceso se alcanza en el mediano y largo plazo. Para lograr este propósito, se debe agotar un número dado de pasos los cuales se sugiere sean abordados de manera secuencial. La construcción de buenas mediciones es un ejercicio de resistencia y no de velocidad
+</p>
+
+
+<p style="font-size:75%;"> 
+6. La definición, administración y consolidación periódica de estadísticas e indicadores en el marco de los procesos exige que al interior de los mismos existan las capacidades humanas, físicas y tecnológicas mínimas requeridas para su adecuada administración.
+</p>
+
 
 # Qué es un proceso y características de los procesos?
 
